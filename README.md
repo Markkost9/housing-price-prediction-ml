@@ -36,6 +36,8 @@ Price
 
 Dataset size: ~40,000 records.
 
+Dataset source: Kaggle – publicly available housing dataset used for educational and modeling purposes.
+
 ---
 
 ## 🔎 Exploratory Data Analysis
